@@ -1,4 +1,4 @@
-Abre al archivo de configuracion.ini y agrega el token en "AQUÍ EL TOKEN"
+Abre al archivo de configuracion.json y agrega el token
 <br>
 <br>
 [![Video: ](https://img.youtube.com/vi/dd7kWCvZtv0/0.jpg)](https://www.youtube.com/watch?v=dd7kWCvZtv0)
